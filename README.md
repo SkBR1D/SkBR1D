@@ -17,6 +17,4 @@ As I learn new coding lanuages I also do some video editing on the side.</p>
 - Css
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaLangford&show_icons=true&theme=tokyonight) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaLangford&layout=compact)
